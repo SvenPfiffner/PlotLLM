@@ -60,7 +60,7 @@ Ensure you have the following installed on your system:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/PlotLM.git
+git clone https://github.com/SvenPfiffner/PlotLLM.git
 cd PlotLLM
 ```
 
